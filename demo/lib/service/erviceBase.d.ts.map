@@ -1,0 +1,1 @@
+{"version":3,"file":"erviceBase.d.ts","sourceRoot":"","sources":["../../src/service/erviceBase.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,cAAc,EAAE,MAAM,4BAA4B,CAAC;AAE5D,qBAAa,WAAW;IACpB,SAAS,CAAC,OAAO,EAAE,cAAc,CAAC;gBAEtB,OAAO,EAAE,cAAc;CAGtC"}
